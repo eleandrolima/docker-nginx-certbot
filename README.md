@@ -1,6 +1,8 @@
 ## Docker Nginx Cert
 - Create and renew website SSL certificates using the Let's Encrypt free certificate authority and its client certbot.
 
+# Usage
+
 ## Development environment
 
 ### Build the docker image
